@@ -2121,11 +2121,10 @@ tbody.collapse.show {
   color: #333;
   text-align: left;
   list-style: none;
-  background-color: #f3f3f3;
+  background-color: #fff;
   background-clip: padding-box;
-  border: 1px solid rgba(0, 0, 0, 0.15);
   border-radius: 0.25rem;
-  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.175); }
+}
 
 .dropup .dropdown-menu {
   margin-top: 0;
